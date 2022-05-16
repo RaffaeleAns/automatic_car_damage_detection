@@ -20,15 +20,15 @@ Lastly, the application of a promising hyperparamter optimization technique, BOH
 
 ## Report
 
-[Here](https://github.com/RaffaeleAns/Adversarial-Fair-Classifier/blob/master/report.pdf) you can find the technical report with the details of the analysis.
+[Here](https://github.com/RaffaeleAns/automatic_car_damage_detection/blob/main/thesis.pdf) you can find the technical report with the details of the analysis.
 
 ## Presentation
 
-[Here](https://github.com/RaffaeleAns/Adversarial-Fair-Classifier/blob/master/AML%20presentazione.pdf) you can find a short presentation.
+[Here](https://github.com/RaffaeleAns/automatic_car_damage_detection/blob/main/presentation.pdf) you can find a short presentation.
 
 ## Codes
 
-[Here](https://github.com/RaffaeleAns/Adversarial-Fair-Classifier/blob/master/code.ipynb) you can find the notebook.
+[Here](https://github.com/RaffaeleAns/Adversarial-Fair-Classifier/blob/main/codes) you can find the codes.
 
 
 
