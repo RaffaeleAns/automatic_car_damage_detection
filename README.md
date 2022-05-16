@@ -7,7 +7,7 @@
 ### An efficient and effective method for HPO on transfer learning applied to image classification
 
 <p align="center">
-	<img src="https://github.com/RaffaeleAns/Adversarial-Fair-Classifier/blob/master/images/fair_HD.gif" width = "300">
+	<img src="https://github.com/RaffaeleAns/automatic_car_damage_detection/blob/main/images/hpo.png" width = "300">
 </p>
 
 This thesis focuses on the hyperparameter optimization problem applied on convolutional neural networks with transfer learning for image classification. 
@@ -20,15 +20,15 @@ Lastly, the application of a promising hyperparamter optimization technique, BOH
 
 ## Report
 
-[Here](https://github.com/RaffaeleAns/Adversarial-Fair-Classifier/blob/master/report.pdf) you can find a short presentation.
+[Here](https://github.com/RaffaeleAns/Adversarial-Fair-Classifier/blob/master/report.pdf) you can find the technical report with the details of the analysis.
 
-## Thesis
+## Presentation
 
-[Here](https://github.com/RaffaeleAns/Adversarial-Fair-Classifier/blob/master/AML%20presentazione.pdf) you can find the technical report with the details of the analysis.
+[Here](https://github.com/RaffaeleAns/Adversarial-Fair-Classifier/blob/master/AML%20presentazione.pdf) you can find a short presentation.
 
 ## Codes
 
-[Here](https://github.com/RaffaeleAns/Adversarial-Fair-Classifier/blob/master/code.ipynb) you can find the codes.
+[Here](https://github.com/RaffaeleAns/Adversarial-Fair-Classifier/blob/master/code.ipynb) you can find the notebook.
 
 
 
