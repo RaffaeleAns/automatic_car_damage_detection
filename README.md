@@ -18,13 +18,13 @@ Since the convolutional neural networks have been acknowledged as the state-of-t
 Although these paradigms are well-defined on benchmark datasets, the appli- cation of convolutional neural networks to real world examples requires still too many decisions without any a priori information about their goodness. In the deep learning context all the decisions required in the model building are referred as hyperparameters of the model and the problem of choosing the best set of hyper- paramters is known as hyperparameter optimization. The second chapter deepens this problem, discussing some techniques along with their strengths and weaknesses.
 Lastly, the application of a promising hyperparamter optimization technique, BOHB, is applied to a convolutional neural network from scratch and on a transfer learning model. The resulting best model configuration is used to develop a business solution for insurance market: an automated suite for the damage detection on cars.
 
-## Report
+## Thesis
 
 [Here](https://github.com/RaffaeleAns/automatic_car_damage_detection/blob/main/thesis.pdf) you can find the technical report with the details of the analysis.
 
 ## Presentation
 
-[Here](https://github.com/RaffaeleAns/automatic_car_damage_detection/blob/main/presentation.pdf) you can find a short presentation.
+[Here](https://github.com/RaffaeleAns/automatic_car_damage_detection/blob/main/report.pdf) you can find a short presentation.
 
 ## Codes
 
